@@ -103,7 +103,7 @@ function addNewMedicine(medicineName, medicinePrice) {
 }
 ```
 ### Objective 4: Design Improvements
-What it was before: The CSS file only contained the basic reset and disclaimer styles. The page had no colors, no layout, and no visual hierarchy.
+What it was before: The CSS file only contained the basic reset and disclaimer styles. The page had no colors, no layout
 
 What I did:
 - Improved the colour scheme
