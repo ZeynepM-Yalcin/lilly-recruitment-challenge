@@ -217,7 +217,7 @@ The existing backend API made it straightforward to focus on the frontend, thoug
 
 The most valuable takeaway was learning to handle missing and invalid data properly. The database had medicines with empty names and null prices, which forced me to think about validation and error handling from the start. This is something I'll definitely carry forward. 
 
-Although it's simpel, I'm particularly pleased with how the design turned out - the consistent red branding throughout and the immediate user feedback makes it feel polished. The code is also reasonably clean and could be extended with features like delete functionality or editing medicines without having to change the code too much.
+Although it's simple, I'm particularly pleased with how the design turned out - the consistent red branding throughout and the immediate user feedback makes it feel polished. The code is also reasonably clean and could be extended with features like delete functionality or editing medicines without having to change the code too much.
 
 If I'm being honest, I would have liked more time to add some of the extra features I mentioned, like the ability to delete medicines or search through the list. But I'm happy with what I accomplished.
 
